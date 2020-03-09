@@ -7,7 +7,15 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>clinic.programming</groupId>
   <artifactId>maven-quick-start</artifactId>
-  <version>3.0</version>
+  <version>4.0</version>
+  
+  <dependencies>
+   <dependency>
+	<groupId>org.apache.commons</groupId>
+	<artifactId>commons-lang3</artifactId>
+	<version>3.9</version>
+   </dependency>
+  </dependencies>
   
    <build>
     <plugins>
